@@ -1,0 +1,15 @@
+C:\Users\77057\GIT GIT\Домашняя работа\Homewokr2\bin\Debug\net7.0\Homewokr2.exe
+C:\Users\77057\GIT GIT\Домашняя работа\Homewokr2\bin\Debug\net7.0\Homewokr2.deps.json
+C:\Users\77057\GIT GIT\Домашняя работа\Homewokr2\bin\Debug\net7.0\Homewokr2.runtimeconfig.json
+C:\Users\77057\GIT GIT\Домашняя работа\Homewokr2\bin\Debug\net7.0\Homewokr2.dll
+C:\Users\77057\GIT GIT\Домашняя работа\Homewokr2\bin\Debug\net7.0\Homewokr2.pdb
+C:\Users\77057\GIT GIT\Домашняя работа\Homewokr2\obj\Debug\net7.0\Homewokr2.csproj.AssemblyReference.cache
+C:\Users\77057\GIT GIT\Домашняя работа\Homewokr2\obj\Debug\net7.0\Homewokr2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\77057\GIT GIT\Домашняя работа\Homewokr2\obj\Debug\net7.0\Homewokr2.AssemblyInfoInputs.cache
+C:\Users\77057\GIT GIT\Домашняя работа\Homewokr2\obj\Debug\net7.0\Homewokr2.AssemblyInfo.cs
+C:\Users\77057\GIT GIT\Домашняя работа\Homewokr2\obj\Debug\net7.0\Homewokr2.csproj.CoreCompileInputs.cache
+C:\Users\77057\GIT GIT\Домашняя работа\Homewokr2\obj\Debug\net7.0\Homewokr2.dll
+C:\Users\77057\GIT GIT\Домашняя работа\Homewokr2\obj\Debug\net7.0\refint\Homewokr2.dll
+C:\Users\77057\GIT GIT\Домашняя работа\Homewokr2\obj\Debug\net7.0\Homewokr2.pdb
+C:\Users\77057\GIT GIT\Домашняя работа\Homewokr2\obj\Debug\net7.0\Homewokr2.genruntimeconfig.cache
+C:\Users\77057\GIT GIT\Домашняя работа\Homewokr2\obj\Debug\net7.0\ref\Homewokr2.dll
