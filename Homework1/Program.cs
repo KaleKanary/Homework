@@ -16,6 +16,6 @@ int a, b;
     {
         Console.WriteLine("{0} наибольшее число ", b);
     }
- 
-        Console.ReadLine();
+         Console.ReadLine();
+
     
